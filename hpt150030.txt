@@ -1,0 +1,2 @@
+Dennis	Ritchie	M	Berkeley Heights	Apartment number: 21	New Jersey	NJ	987456	4699510009	dennis.ritchie@gmail.com	true	10-02-2015
+Bill	Gates		1835 73rd Ave	Apt: 9	Medina	WA	98039	4699519999	bill.gates@outlook.com	false	9-30-2015
